@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NaveenDevlpr
-- 👀 I’m interested in Backend Development and Data Analytics
-- 🌱 I’m currently learning Django
+- 👋 Hi, I’m Naveen Kumar @NaveenDevlpr
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning Next.js,TypeScript and Django
 - 💞️ I’m looking to collaborate with some dev for my Startup Idea
 - 📫 How to reach me naveenmk675@gmail.com
 
